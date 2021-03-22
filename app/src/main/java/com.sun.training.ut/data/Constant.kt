@@ -91,6 +91,7 @@ object Constant {
     const val TIME_8_45 = 526
     const val TIME_17_59 = 1079
     const val FEE_110 = 110
+    const val FEE_FREE = 0
 
     //Exercise 4:
     enum class Color {
