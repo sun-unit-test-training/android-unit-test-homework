@@ -2,9 +2,9 @@ package com.sun.training.ut
 
 import androidx.annotation.CallSuper
 import io.mockk.MockKAnnotations
-import io.mockk.spyk
 import org.junit.Before
 import org.mockito.MockitoAnnotations
+import kotlin.jvm.Throws
 
 open class BaseTest{
     @Before
