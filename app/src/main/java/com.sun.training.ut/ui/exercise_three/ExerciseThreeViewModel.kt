@@ -11,6 +11,7 @@ class ExerciseThreeViewModel : BaseViewModel() {
     private var isHaveShirt: Boolean = false
     private var isHaveTie: Boolean = false
     var numberOfItems = 0
+    1
 
     fun onChangedShirt(isChecked: Boolean) {
         isHaveShirt = isChecked
